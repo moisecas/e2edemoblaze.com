@@ -1,4 +1,4 @@
-// cypress/integration/visit_page_spec.js
+
 
 describe('Talana ecommerce', function() {
 
